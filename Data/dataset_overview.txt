@@ -1,0 +1,44 @@
+Data Dictionary
+We have attached the dataset for the competition. Please refer to the following data dictionary for an understanding of the 
+
+dataset’s structure:
+
+C_ID: Unique Customer ID
+REG_Date: User Registration Date
+FTD_Date: First Time Deposit (FTD) Date
+Last_Login_Through: Platform of Latest Login
+Age: Age of the user
+Gender: Gender of the user
+Phone_Verified: Whether the user's phone is verified
+Email_Verified: Whether the user's email is verified
+KYC: User's KYC Status
+FTD_Device: Device used for First Time Deposit
+FTD_Amount: Amount of First Time Deposit
+REG_Refer_Type: Referral Type of the Registration
+REG_Device: User Registration Device
+REG_Widget: User Registration Widget
+Login_Device: Device used for User Login
+App_Type: App Type used by the user
+App_Version: App Version used by the user
+Total_Deposit: Total Deposit by the user
+Total_Wager: Total Wagered by the user
+Total_Winning: Total amount won by the user
+Total_Withdrawal: Total Withdrawn by the user
+Total_Bonus: Total Bonus earned by the user
+Last_Deposit_Amount: Last Deposit made by the user
+Last_Wager_Amount: Last Wager made by the user
+Last_Winning_Amount: Last Win by the user
+Last_Withdrawal_Amount: Last Withdrawal by the user
+Last_Bonus_Amount: Last Bonus earned by the user
+Last_Activity_Date: Date of Last Activity
+Last_Deposit_Date: Date of Last Deposit
+Last_Wager_Date: Date of Last Wager
+Free_Game_Cnt_Till: Count of Free Games played
+Deposit_INITIATED: Number of Deposits initiated by the user
+Deposit_DONE: Number of Deposits successfully completed
+Deposit_FAILED: Number of Failed Deposits
+Wager_101_POOL, Wager_201_POOL, etc.: Cash Game Played Amount across different game types
+Game_Count_101_POOL, Game_Count_201_POOL, etc.: Cash Game Count across different game types
+Days_Count_101_POOL, Days_Count_201_POOL, etc.: Cash Game Days Count across different game types
+Total_Game_Count: Total number of games played
+Total_Days_Count: Total number of days the user has participated in games
